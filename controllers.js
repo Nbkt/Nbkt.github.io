@@ -1,7 +1,7 @@
 // CONTROLLERS
 youtubeSearchApp.controller('youtubeController', ['$scope', '$sce', 'youtubeFactory', function($scope, $sce, youtubeFactory) {
 
-    $scope.term = 'Electronic Gems';
+    $scope.term = 'home resonance (Original Soundtrack)';
     $scope.selectedVideo = '';
     $scope.frameUrl = '';
 
